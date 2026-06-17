@@ -4,7 +4,7 @@
 
 ### Hi👋, I'm Nebil
 I am a Full-Stack developer from Ethiopia passionate about building scalable and efficient web apps that provide an enjoyable user experience. I specialize in React/Next.js for frontend and Node.js for backend. I also have experience in cross-platform mobile development using Flutter and React native.
-- 🌱 I’m currently learning testing frameworks to build robust apps.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on any fun projects
 
 #### Connect with me:
