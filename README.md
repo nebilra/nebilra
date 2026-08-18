@@ -92,15 +92,15 @@ I am a Full-Stack developer from Ethiopia passionate about building scalable and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 15 August 2026
+From: 17 July 2026 - To: 16 August 2026
 
-Total Time: 165 hrs 11 mins
+Total Time: 162 hrs 15 mins
 
-Dart              52 hrs 59 mins        ████████░░░░░░░░░░░░░░░░░   31.77 %
-TypeScript        33 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Bash              23 hrs 55 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-YAML              16 hrs 46 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Markdown          12 hrs 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Dart              52 hrs 59 mins        ████████░░░░░░░░░░░░░░░░░   32.33 %
+TypeScript        31 hrs 44 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Bash              23 hrs 55 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+YAML              16 hrs 46 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Markdown          11 hrs 55 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
