@@ -41,7 +41,6 @@ I am a Full Stack developer from Ethiopia passionate about building scalable and
 <p align="left">
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NextJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Remix" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/remix/remix-original.svg" />
 <img align="left" alt="Redux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;" alt="redux" width="40px" height="40px"/>
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -50,7 +49,6 @@ I am a Full Stack developer from Ethiopia passionate about building scalable and
 <img align="left" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;"  width="40px" height="40px"/>
 <img align="left" alt="Spring-Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" width="40px" height="40px"/>
 <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" width="40px" height="40px"/>
 
 </p>
 
@@ -86,8 +84,8 @@ I am a Full Stack developer from Ethiopia passionate about building scalable and
 ### 📊 Stats
 
 <div align="center" style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-content: space-around; gap: 40px;">
-  <img height=auto width=52.6% src="https://github-stats-extended.vercel.app/api?username=patrix726&show_icons=true&theme=github_dark" alt="Nebil's Github stats">
-  <img height=auto width=40% src="https://github-stats-extended.vercel.app/api/top-langs/?username=patrix726&layout=compact&theme=github_dark&exclude_repo=CS1graphics-Project,dotfiles" alt="Top langs">
+  <img height=auto width=52.6% src="https://github-stats-extended.vercel.app/api?username=nebilra&show_icons=true&theme=github_dark" alt="Nebil's Github stats">
+  <img height=auto width=40% src="https://github-stats-extended.vercel.app/api/top-langs/?username=nebilra&layout=compact&theme=github_dark&exclude_repo=CS1graphics-Project,dotfiles" alt="Top langs">
 </div>
 <!--START_SECTION:waka-->
 
