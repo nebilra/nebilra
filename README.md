@@ -1,92 +1,48 @@
+# Nebil Rahmeto
 
+**Full Stack Developer** · TypeScript, React / Next.js, Node.js, Flutter
 
-<img src="./ReadMe-Header.png">
+I build and ship production web and mobile products end to end: schema design, APIs, UI, tests, and deployment. Day to day I work in healthcare and SaaS codebases where correctness and security matter.
 
-### Hi👋, I'm Nebil
-I am a Full Stack developer from Ethiopia passionate about building scalable and efficient web apps that provide an enjoyable user experience. I specialize in React/Next.js for frontend and Node.js for backend. I also have experience in cross-platform mobile development using Flutter and React native.
-- 🌱 I’m currently learning Go.
-- 👯 I’m looking to collaborate on any fun projects
+**Open to full-time roles** (Addis Ababa or remote).
 
-#### Connect with me:
+[Portfolio](https://nebil.work) · [Resume](https://github.com/nebilra/resume/releases/latest/download/resume.pdf) · [LinkedIn](https://linkedin.com/in/nebilrahmeto) · [Email](mailto:nebilrahmeto2004@gmail.com) · [LeetCode](https://www.leetcode.com/patrix726)
 
-<a href="https://linkedin.com/in/nebilrahmeto" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30px" width="40px" />
-</a>
-<a href="https://www.leetcode.com/patrix726" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30px" width="40px" />
-</a>
+---
 
-<br/>
-<br/>
+## Professional work
 
-### 🧰 Languages
+Most of my production code lives in private repositories, so here is what it covers.
 
-<p align="left">
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Dart" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" />
-</p>
+- **MKF ICT Solutions PLC**, Full Stack Developer. Shipped five production projects: corporate and SaaS marketing sites (Next.js, Lighthouse 90+, 100 in SEO and Accessibility), a SaaS dashboard, and a Flutter mobile app.
+- **ProspexAI, Inc.**, Full Stack Developer. Next.js, Supabase and PostgreSQL in a healthcare SaaS. Cut query latency 25% through schema and backend redesign, wrote 1,000+ unit, integration and end-to-end tests, and cleared 200+ TypeScript type errors in a codebase-wide refactor.
+- **Yourstech Academy**, contract. Architected an eLearning platform for 500+ users, with Vimeo streaming and a schema redesign that cut page load times 30%.
+- **Information Network Security Agency**, intern. Built a real-time dashboard for 50+ network nodes and upgraded OpenDaylight L2Switch, resolving 20+ compatibility issues.
+- Earlier: Ecybernest (Express and Socket.io backend for live virtual classrooms) and EagleLion System Technology (role-based hospital management system).
 
-<br/>
-<br/>
+Full details are in my [resume](https://github.com/nebilra/resume/releases/latest/download/resume.pdf).
 
-### <img alt="🧰" height="20px" src="https://img.icons8.com/?size=100&id=0SUK7eSJS0sH&format=png&color=000000"/> Libraries/Frameworks
+## Selected projects
 
-<p align="left">
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Redux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;" alt="redux" width="40px" height="40px"/>
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Express" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=104A8F" />
-<img align="left" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;"  width="40px" height="40px"/>
-<img align="left" alt="Spring-Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" width="40px" height="40px"/>
-<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+| Project                                                                                         | What it is                                                                                                                                                                                                                   | Stack                                            |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [**HealthTrack EMR**](https://github.com/nebilra/DHCMS) · [live](https://emr.nebil.work)        | Electronic medical records with role-based dashboards for doctors, patients, receptionists and admins: appointment scheduling, medical history, invoicing, phone-based auth.                                                 | Next.js, TypeScript, Prisma, PostgreSQL          |
+| [**Campus Hub**](https://github.com/nebilra/campus-hub-component-based-project)                 | Team monorepo with a feature-package architecture: each domain (auth, profiles, chat, notifications) is its own package with client, server and shared boundaries. Real-time messaging over WebSocket, property-based tests. | Turborepo, Next.js, Express, Prisma, Better-Auth |
+| [**Dental Booking App**](https://github.com/nebilra/dental-booking-app)                         | Appointment booking app, built solo as an interview assessment. Clean architecture, generated feature scaffolds, tests per feature, and a CI workflow that publishes release APKs with checksums.                            | Flutter, Riverpod, go_router, freezed            |
+| [**RideLink**](https://ride-link.netlify.app) · [org](https://github.com/RideLinkGC)            | Final-year project: real-time carpooling with trip scheduling, route matching and ratings. I built the Flutter app and the TypeScript backend.                                                                               | Flutter, React, Node.js, PostgreSQL              |
+| [**ni-shell**](https://github.com/nebilra/ni-shell)                                             | A POSIX-style shell written from scratch in Go for learning: builtins, external programs, quoting, redirection, tab completion.                                                                                              | Go                                               |
+| [**new-file.nvim**](https://github.com/nebilra/new-file.nvim)                                   | A published Neovim plugin for creating files and directories through the picker of your choice, with docs and tests.                                                                                                         | Lua                                              |
+| [**Spotlyrics**](https://github.com/nebilra/Spotlyrics) · [live](https://spotlyrics.nebil.work) | Syncs Spotify playback with real-time translated lyrics with your language of choice.                                                                                                                                        | Next.js, Tailwind CSS, Spotify API               |
 
-</p>
+## Tech I work with
 
-<br/>
-<br/>
+- **Languages:** TypeScript, JavaScript, Dart, Python, SQL, Go, Java
+- **Frontend and mobile:** React, Next.js, Tailwind CSS, Flutter, React Native
+- **Backend and data:** Node.js, Express, Prisma, Drizzle, PostgreSQL, Supabase, Redis
+- **Tooling:** Git, GitHub Actions, Docker, Linux, Vitest, Figma
 
-### <img alt="🧰" width="18px" src="https://img.icons8.com/?size=100&id=1476&format=png&color=104A8F"/> Database
+## Recent activity
 
-<p align="left">
-<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Postgresql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Redis" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
-</p>
-
-
-<br/>
-<br/>
-
-### 🔧 Tools
-
-<p align="left">
-<img align="left" alt="Docker" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
-
-<br/>
-<br/>
-
-### 📊 Stats
-
-<div align="center" style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-content: space-around; gap: 40px;">
-  <img height=auto width=52.6% src="https://github-stats-extended.vercel.app/api?username=nebilra&show_icons=true&theme=github_dark" alt="Nebil's Github stats">
-  <img height=auto width=40% src="https://github-stats-extended.vercel.app/api/top-langs/?username=nebilra&layout=compact&theme=github_dark&exclude_repo=CS1graphics-Project,dotfiles" alt="Top langs">
-</div>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -102,6 +58,3 @@ JSON              7 hrs 1 min           █░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<br/>
-<img align="right" src="https://komarev.com/ghpvc/?username=patrix726&color=ef8354&style=for-the-badge&abbreviated=true">
-
