@@ -46,15 +46,15 @@ Full details are in my [resume](https://github.com/nebilra/resume/releases/lates
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 29 October 2026
+From: 30 September 2026 - To: 30 October 2026
 
-Total Time: 199 hrs 26 mins
+Total Time: 198 hrs 46 mins
 
-TypeScript        89 hrs 17 mins        ██████████▓░░░░░░░░░░░░░░   43.22 %
-Dart              40 hrs 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-Markdown          21 hrs 1 min          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Other             7 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-CSS               6 hrs 40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TypeScript        85 hrs 46 mins        ██████████▒░░░░░░░░░░░░░░   41.62 %
+Dart              43 hrs 38 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+Markdown          23 hrs 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Other             7 hrs 19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JavaScript        6 hrs 39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
